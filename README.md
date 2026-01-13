@@ -3,3 +3,4 @@ Rozdział 1: Wstęp
 Rozdział 2: Rozwinięcie
 Rozdział 3: Zakończenie
 Zmiana z galezi test
+Wersja z galezi FEATURE
